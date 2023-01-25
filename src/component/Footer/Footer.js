@@ -1,4 +1,4 @@
-import Container from '@components/Container';
+import Container from 'src/component/Container';
 
 import styles from './Footer.module.scss';
 

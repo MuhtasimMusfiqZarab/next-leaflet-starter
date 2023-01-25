@@ -1,10 +1,10 @@
 import Head from 'next/head';
 
-import Layout from '@components/Layout';
-import Section from '@components/Section';
-import Container from '@components/Container';
-import Map from '@components/Map';
-import Button from '@components/Button';
+import Layout from 'src/component/Layout';
+import Section from 'src/component/Section';
+import Container from 'src/component/Container';
+import Map from 'src/component/Map';
+import Button from 'src/component/Button';
 
 import styles from '@styles/Home.module.scss';
 

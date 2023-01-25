@@ -1,7 +1,7 @@
 import Head from 'next/head';
 
-import Header from '@components/Header';
-import Footer from '@components/Footer';
+import Header from 'src/component/Header';
+import Footer from 'src/component/Footer';
 
 import styles from './Layout.module.scss';
 
